@@ -1,0 +1,103 @@
+File Name: error_no_twb_input.json
+
+{
+  "_parser_metadata": {
+    "parser_version": "2.0",
+    "parse_timestamp": "2024-12-19T10:30:00Z",
+    "source_file": "unknown",
+    "source_file_size_bytes": 1,
+    "tableau_version": null,
+    "tableau_platform": null,
+    "xml_element_count": 0,
+    "xml_unique_tags": 0,
+    "counts": {
+      "datasources": 0,
+      "datasources_deduplicated": 0,
+      "worksheets": 0,
+      "dashboards": 0,
+      "actions": 0,
+      "windows": 0,
+      "calculated_fields": 0,
+      "parameters": 0,
+      "filters_total": 0,
+      "filters_datasource_level": 0,
+      "filters_worksheet_level": 0,
+      "columns_total": 0,
+      "groups": 0,
+      "reference_lines": 0,
+      "relationships": 0,
+      "hidden_columns": 0,
+      "hidden_pages": 0
+    },
+    "validation": {
+      "status": "FAIL",
+      "checks": [],
+      "warnings": [],
+      "errors": [
+        "No valid TWB XML content provided. Input contains only a single '.' character, which is not a valid Tableau workbook file."
+      ]
+    }
+  },
+  "workbook": {
+    "original_version": null,
+    "source_build": null,
+    "source_platform": null,
+    "version": null,
+    "document_format_change_manifest": []
+  },
+  "preferences": {
+    "items": [],
+    "color_palettes": []
+  },
+  "datasources": [],
+  "calculations": [],
+  "parameters": [],
+  "relationships": [],
+  "groups": [],
+  "mapsources": [],
+  "shared_views": [],
+  "actions": [],
+  "worksheets": [],
+  "filters": [],
+  "reference_lines": [],
+  "styles": {
+    "color_palettes_used": [],
+    "explicit_mark_colors": [],
+    "number_formats": [],
+    "font_overrides": [],
+    "axis_visibility": [],
+    "gridline_settings": [],
+    "map_settings": [],
+    "mark_properties": [],
+    "tooltip_field_visibility": [],
+    "dashboard_text_formatting": [],
+    "dashboard_zone_styles": []
+  },
+  "security": {
+    "summary": {
+      "has_user_filters": false,
+      "has_rls": false,
+      "has_datasource_level_filters": false,
+      "has_extract_filters": false,
+      "has_initial_sql": false,
+      "has_hidden_columns": false,
+      "has_hidden_pages": false,
+      "has_published_datasource": false,
+      "authentication_methods": []
+    },
+    "user_filters": [],
+    "hidden_columns": [],
+    "hidden_pages": [],
+    "authentication": [],
+    "datasource_level_filters": [],
+    "extract_filters": [],
+    "initial_sql": [],
+    "published_datasource_refs": [],
+    "security_relevant_filters": []
+  },
+  "dashboards": [],
+  "windows": [],
+  "thumbnails": []
+}
+
+JSON length: 2847
