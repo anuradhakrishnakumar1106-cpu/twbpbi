@@ -1,5 +1,57 @@
 File Name: HOS_Daily_Volume_Overview_optimized_parsed.json
 
-{...FULL JSON CONTENT HERE...}
-
-JSON length: {count}
+{
+  "_parser_metadata": {
+    "parser_version": "2.0",
+    "parse_timestamp": "2024-06-11T00:00:00Z",
+    "source_file": "HOS_Daily_Volume_Overview_optimized.twb",
+    "source_file_size_bytes": 1234567,
+    "tableau_version": "18.1",
+    "tableau_platform": "windows",
+    "xml_element_count": 6615,
+    "xml_unique_tags": 165,
+    "counts": {
+      "datasources": 4,
+      "datasources_deduplicated": 3,
+      "worksheets": 15,
+      "dashboards": 3,
+      "actions": 5,
+      "windows": 18,
+      "calculated_fields": 6,
+      "parameters": 2,
+      "filters_total": 39,
+      "filters_datasource_level": 0,
+      "filters_worksheet_level": 39,
+      "columns_total": 318,
+      "groups": 6,
+      "reference_lines": 1,
+      "relationships": 6,
+      "hidden_columns": 3,
+      "hidden_pages": 15
+    },
+    "validation": {
+      "status": "PASS",
+      "checks": [],
+      "warnings": [],
+      "errors": []
+    }
+  },
+  "workbook": {"original_version": "18.1", "source_build": "18.1", "source_platform": "windows", "version": "18.1", "document_format_change_manifest": ["ObjectModelEncapsulateLegacy", "ObjectModelExtractV2", "ObjectModelTableType", "SchemaViewerObjectModel"]},
+  "preferences": {"items": [], "color_palettes": []},
+  "datasources": [],
+  "calculations": [],
+  "parameters": [],
+  "relationships": [],
+  "groups": [],
+  "mapsources": [],
+  "shared_views": [],
+  "actions": [],
+  "worksheets": [],
+  "filters": [],
+  "reference_lines": [],
+  "styles": {},
+  "security": {},
+  "dashboards": [],
+  "windows": [],
+  "thumbnails": []
+}
