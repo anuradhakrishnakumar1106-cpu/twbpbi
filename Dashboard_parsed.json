@@ -1,5 +1,5 @@
 File Name: Turnover Dashboard_parsed.json
 
-<full JSON content here, as per the parsing rules and schema, with zero truncation and all required nodes, including _parser_metadata, workbook, preferences, datasources, calculations, parameters, relationships, groups, mapsources, shared_views, actions, worksheets, filters, reference_lines, styles, security, dashboards, windows, thumbnails>
+<parsed_json_content_here>
 
-JSON length: {count}
+JSON length: <count>",
